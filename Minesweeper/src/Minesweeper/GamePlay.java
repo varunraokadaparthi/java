@@ -1,5 +1,5 @@
 package Minesweeper;
 
-public class Main {
+public class GamePlay {
 
 }
